@@ -1,0 +1,192 @@
+{
+  "nav": {
+    "home": "首页",
+    "circuit": "路线",
+    "pricing": "价格",
+    "reservation": "预订",
+    "contact": "联系",
+    "reserve": "预订"
+  },
+  "hero": {
+    "title": "在桑给巴尔开始一场四轮摩托车冒险！",
+    "subtitle": "跟随岛屿的节奏探索海滩、森林和村庄。",
+    "startingPoint": "出发点：里乌詹博酒店",
+    "open247": "24/7开放",
+    "multilingualGuides": "多语言导游",
+    "reserveNow": "立即预订您的旅程"
+  },
+  "circuit": {
+    "title": "四轮摩托车冒险路线",
+    "subtitle": "通过桑给巴尔令人惊叹的风景发现您冒险的亮点",
+    "highlights": {
+      "beach": "出发：琼巴海滩及其沙洲",
+      "beachDesc": "在清澈的海水中平静游泳",
+      "forest": "热带森林",
+      "forestDesc": "在茂密植被的中心体验自然沉浸",
+      "village": "参观基利马尼村",
+      "villageDesc": "与当地人见面，品尝当地美食，观看传统舞蹈",
+      "kendwa": "在肯德瓦海滩停留",
+      "kendwaDesc": "被评为世界第4美丽海滩",
+      "private": "卡斯卡齐尼私人海滩",
+      "privateDesc": "放松、游泳、无人机拍照"
+    },
+    "included": "您的冒险中包含",
+    "includedDesc": "一切都是为了让您充分享受您的体验而设计的",
+    "items": {
+      "guide": "经验丰富的当地导游",
+      "insurance": "全面保险",
+      "equipment": "头盔、手套和护目镜",
+      "media": "提供高清照片和视频",
+      "refreshments": "茶点和水果",
+      "drone": "无人机视频（可选）"
+    }
+  },
+  "pricing": {
+    "title": "价格和时间表",
+    "paymentOnSite": "现场付款",
+    "transferIncluded": "包含从努恩威/肯德瓦酒店的接送",
+    "options": {
+      "single": "1辆四轮摩托车（1或2人）",
+      "double": "2辆四轮摩托车（最多4人）",
+      "group": "团体（2辆以上四轮摩托车）"
+    },
+    "prices": {
+      "single": "60美元",
+      "double": "115美元",
+      "group": "根据要求报价"
+    },
+    "duration": "4小时",
+    "features": {
+      "transfer": "从努恩威/肯德瓦酒店接送",
+      "guide": "经验丰富的当地导游",
+      "refreshments": "新鲜水果和饮料",
+      "media": "高清照片和视频",
+      "insurance": "全面保险",
+      "discount": "团体折扣"
+    },
+    "schedules": "旅游时间表",
+    "schedulesDesc": "选择最适合您的时间",
+    "morning": "上午旅游",
+    "afternoon": "下午旅游",
+    "pickup": "接送08:50",
+    "departure": "出发09:00",
+    "return": "返回13:00",
+    "pickupAfternoon": "接送13:50",
+    "departureAfternoon": "出发14:00",
+    "returnAfternoon": "返回18:00",
+    "reserveNow": "立即预订",
+    "requestQuote": "请求报价"
+  },
+  "reservation": {
+    "title": "预订您的冒险",
+    "subtitle": "选择您的偏好并点击几下即可预订",
+    "morningTour": "上午旅游",
+    "afternoonTour": "下午旅游",
+    "quadsAvailable": "四轮摩托车可用",
+    "form": {
+      "date": "预订日期",
+      "quads": "四轮摩托车数量",
+      "schedule": "时间表",
+      "name": "全名",
+      "email": "电子邮件",
+      "phone": "电话（WhatsApp）",
+      "language": "导游语言",
+      "customRequest": "自定义请求",
+      "morning": "上午（09:00-13:00）",
+      "afternoon": "下午（14:00-18:00）",
+      "available": "可用",
+      "namePlaceholder": "您的全名",
+      "emailPlaceholder": "您的@邮箱.com",
+      "phonePlaceholder": "+255 719 924 652",
+      "submit": "发送并打开WhatsApp",
+      "submitting": "发送中..."
+    },
+    "languages": {
+      "french": "法语",
+      "english": "英语",
+      "italian": "意大利语",
+      "russian": "俄语"
+    }
+  },
+  "ethics": {
+    "title": "道德承诺",
+    "subtitle": "在Karibu四轮摩托车冒险中，每次旅游都有助于当地发展和环境保护",
+    "school": "每次旅游1欧元=支持1所学校",
+    "schoolDesc": "每次预订都直接为当地学校提供资金，为该地区的儿童提供更好的教育机会。",
+    "employment": "当地就业",
+    "employmentDesc": "我们专门雇用来自努恩威村的年轻导游，为当地社区创造可持续的就业机会。",
+    "responsible": "负责任的旅游",
+    "responsibleDesc": "对当地文化和环境敏感？加入我们，体验真实和尊重的体验。",
+    "ethical": "来道德地骑行吧！",
+    "impact": "让我们一起在桑给巴尔创造积极影响"
+  },
+  "services": {
+    "title": "语言和服务",
+    "subtitle": "与专家导游和优质服务的个性化体验",
+    "guidesSpeak": "我们的导游流利地说",
+    "includedTitle": "每次旅游包含",
+    "includedDesc": "经验丰富的当地导游 • 全面保险 • 完整设备 • 高清照片和视频 • 无人机视频可能性 • 新鲜水果和当地饮料",
+    "items": {
+      "guides": "多语言导游",
+      "guidesDesc": "用您的语言完美沟通",
+      "insurance": "保险和设备",
+      "insuranceDesc": "保证最大安全",
+      "media": "高清照片和视频",
+      "mediaDesc": "通过WhatsApp发送的不朽回忆",
+      "drone": "无人机视频",
+      "droneDesc": "壮观的航拍镜头（可选）",
+      "refreshments": "水果和饮料",
+      "refreshmentsDesc": "包含当地茶点",
+      "authentic": "真实体验",
+      "authenticDesc": "与当地人的文化沉浸"
+    }
+  },
+  "contact": {
+    "title": "联系我们",
+    "subtitle": "有问题吗？需要信息？我们在这里为您服务！",
+    "info": "联系信息",
+    "location": "GPS位置",
+    "whatsapp": "WhatsApp",
+    "email": "电子邮件",
+    "contactViaWhatsApp": "通过WhatsApp联系",
+    "sendMessage": "给我们发消息",
+    "form": {
+      "name": "姓名",
+      "email": "电子邮件",
+      "message": "消息",
+      "namePlaceholder": "您的姓名",
+      "emailPlaceholder": "您的@邮箱.com",
+      "messagePlaceholder": "您的消息...",
+      "send": "发送消息",
+      "sending": "发送中...",
+      "success": "消息已发送！我们将快速回复。"
+    }
+  },
+    "footer": {
+    "title": "卡里布四轮摩托探险",
+    "subtitle": "以不同方式探索桑给巴尔",
+    "description": "在一次难忘的四轮摩托探险中，发现桑给巴尔隐藏的宝藏。本地向导、地道旅行和尊重环境是我们使命的核心。",
+    "whatsappDefaultMessage": "你好，卡里布四轮摩托探险，我想了解更多信息！",
+    "exploreTitle": "探索",
+    "legalTitle": "法律",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "contactTitle": "联系我们",
+    "address": "出发点：桑给巴尔瑞优詹博酒店",
+    "phone": "+255 719 924 652",
+    "email": "contact@karibuquadadventure.com",
+    "copyright": "© {{year}} 卡里布四轮摩托探险。版权所有。",
+    "madeWith": "带着",
+    "inZanzibar": "在桑给巴尔制作"
+  },
+  "common": {
+    "loading": "加载中...",
+    "error": "发生错误",
+    "success": "成功！",
+    "close": "关闭",
+    "open": "打开",
+    "save": "保存",
+    "cancel": "取消",
+    "confirm": "确认"
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "nav": {
+    "home": "Nyumbani",
+    "circuit": "Mzunguko",
+    "pricing": "Bei",
+    "reservation": "Uhifadhi",
+    "contact": "Mawasiliano",
+    "reserve": "Hifadhi"
+  },
+   "hero": {
+    "title": "Anza safari ya kusisimua ya Quad Zanzibar!",
+    "subtitle": "Gundua fukwe, misitu, na vijiji kwa mdundo wa kisiwa.",
+    "startingPoint": "Mahali pa kuanzia: Hoteli ya Riu Jambo",
+    "open247": "Wazi 24/7",
+    "multilingualGuides": "Waongozaji wanaozungumza lugha nyingi",
+    "reserveNow": "Hifadhi ziara yako sasa"
+  },
+  "circuit": {
+    "title": "Mzunguko wa Quad Adventure",
+    "subtitle": "Gundua mambo muhimu ya adventure yako kupitia mazingira ya kupendeza ya Zanzibar",
+    "highlights": {
+      "beach": "Kuanza: Jomba Beach na mchanga wake",
+      "beachDesc": "Kuogelea kwa amani katika maji safi",
+      "forest": "Msitu wa kitropiki",
+      "forestDesc": "Kujiunga na asili katikati ya mimea mizuri",
+      "village": "Kutembelea kijiji cha Kilimani",
+      "villageDesc": "Kukutana na wenyeji, chakula cha mitaa, ngoma za jadi",
+      "kendwa": "Kupumzika Kendwa Beach",
+      "kendwaDesc": "Imeorodheshwa kama ufukwe wa 4 mzuri zaidi duniani",
+      "private": "Ufukwe wa kibinafsi wa Kaskazini",
+      "privateDesc": "Kupumzika, kuogelea, picha za drone"
+    },
+    "included": "Imejumuishwa katika adventure yako",
+    "includedDesc": "Kila kitu kimeandaliwa ili ufurahie uzoefu wako kikamilifu",
+    "items": {
+      "guide": "Mwongozi wa mitaa mwenye uzoefu",
+      "insurance": "Bima kamili",
+      "equipment": "Kofia, glavu na miwani",
+      "media": "Picha na video za HD zimeatolewa",
+      "refreshments": "Onyesho na matunda",
+      "drone": "Video za drone (chaguo)"
+    }
+  },
+  "pricing": {
+    "title": "Bei na Ratiba",
+    "paymentOnSite": "Malipo mahali",
+    "transferIncluded": "Usafirishaji kutoka hoteli ya Nungwi/Kendwa umejumuishwa",
+    "options": {
+      "single": "Quad 1 (watu 1 au 2)",
+      "double": "Quad 2 (watu 4 kwa upeo)",
+      "group": "Kikundi (quad 2+)"
+    },
+    "prices": {
+  "single": "Dola 60",
+  "double": "Dola 115",
+  "group": "Kwa nukuu"
+},
+    "duration": "masaa 4",
+    "features": {
+      "transfer": "Usafirishaji kutoka hoteli ya Nungwi/Kendwa",
+      "guide": "Mwongozi wa mitaa mwenye uzoefu",
+      "refreshments": "Matunda safi na vinywaji",
+      "media": "Picha na video za HD",
+      "insurance": "Bima kamili",
+      "discount": "Punguzo la kikundi"
+    },
+    "schedules": "Ratiba za safari",
+    "schedulesDesc": "Chagua wakati unaokufaa zaidi",
+    "morning": "Safari ya asubuhi",
+    "afternoon": "Safari ya mchana",
+    "pickup": "Kuchukua 08:50",
+    "departure": "Kuondoka 09:00",
+    "return": "Kurudi 13:00",
+    "pickupAfternoon": "Kuchukua 13:50",
+    "departureAfternoon": "Kuondoka 14:00",
+    "returnAfternoon": "Kurudi 18:00",
+    "reserveNow": "Hifadhi sasa",
+    "requestQuote": "Omba nukuu"
+  },
+  "reservation": {
+    "title": "Hifadhi Adventure Yako",
+    "subtitle": "Chagua mapendeleo yako na uhifadhi kwa mibofyo michache tu",
+    "morningTour": "Safari ya Asubuhi",
+    "afternoonTour": "Safari ya Mchana",
+    "quadsAvailable": "quad zinapatikana",
+    "form": {
+      "date": "Tarehe ya uhifadhi",
+      "quads": "Idadi ya quad",
+      "schedule": "Ratiba",
+      "name": "Jina kamili",
+      "email": "Barua pepe",
+      "phone": "Simu (WhatsApp)",
+      "language": "Lugha ya mwongozi",
+      "customRequest": "Ombi maalum",
+      "morning": "Asubuhi (09:00-13:00)",
+      "afternoon": "Mchana (14:00-18:00)",
+      "available": "inapatikana",
+      "namePlaceholder": "Jina lako kamili",
+      "emailPlaceholder": "barua@pepe.com",
+      "phonePlaceholder": "+255 719 924 652",
+      "submit": "Tuma na fungua WhatsApp",
+      "submitting": "Inatuma..."
+    },
+    "languages": {
+      "french": "Kifaransa",
+      "english": "Kiingereza",
+      "italian": "Kiitaliano",
+      "russian": "Kirusi"
+    }
+  },
+  "ethics": {
+    "title": "Ahadi ya Maadili",
+    "subtitle": "Katika Karibu Quad Adventure, kila safari inachangia maendeleo ya mitaa na uhifadhi wa mazingira",
+    "school": "Dola 1 kwa ziara = shule 1 inasaidiwa",
+    "schoolDesc": "Kila uhifadhi unachangia moja kwa moja ufadhili wa shule ya mitaa, ukitoa fursa bora za elimu kwa watoto wa eneo hilo.",
+    "employment": "Ajira ya mitaa",
+    "employmentDesc": "Tunaajiri tu waongozi vijana kutoka kijiji cha Nungwi, tukiunda fursa za ajira endelevu katika jamii ya mitaa.",
+    "responsible": "Utalii Wenye Uwajibikaji",
+    "responsibleDesc": "Una hisia za utamaduni na mazingira ya mitaa? Jiunge nasi kwa uzoefu wa kweli na wa heshima.",
+    "ethical": "Njoo uende kwa maadili!",
+    "impact": "Pamoja, tuunde athari chanya Zanzibar"
+  },
+  "services": {
+    "title": "Lugha na Huduma",
+    "subtitle": "Uzoefu wa kibinafsi na waongozi wataalam na huduma za ubora wa juu",
+    "guidesSpeak": "Waongozi wetu wanazungumza vizuri",
+    "includedTitle": "Imejumuishwa katika kila safari",
+    "includedDesc": "Mwongozi wa mitaa mwenye uzoefu • Bima kamili • Vifaa kamili • Picha na video za HD • Uwezekano wa video za drone • Matunda safi na vinywaji vya mitaa",
+    "items": {
+      "guides": "Waongozi wa lugha nyingi",
+      "guidesDesc": "Mawasiliano kamili katika lugha yako",
+      "insurance": "Bima na Vifaa",
+      "insuranceDesc": "Usalama wa juu umehakikishwa",
+      "media": "Picha na Video za HD",
+      "mediaDesc": "Kumbukumbu zilizohifadhiwa na kutumwa kupitia WhatsApp",
+      "drone": "Video za drone",
+      "droneDesc": "Picha za anga za kushangaza (chaguo)",
+      "refreshments": "Matunda na Vinywaji",
+      "refreshmentsDesc": "Onyesho la mitaa limejumuishwa",
+      "authentic": "Uzoefu wa kweli",
+      "authenticDesc": "Kujiunga na utamaduni na wenyeji"
+    }
+  },
+  "contact": {
+    "title": "Wasiliana nasi",
+    "subtitle": "Swali? Unahitaji maelezo? Tuko hapa kwa ajili yako!",
+    "info": "Maelezo ya mawasiliano",
+    "location": "Mahali pa GPS",
+    "whatsapp": "WhatsApp",
+    "email": "Barua pepe",
+    "contactViaWhatsApp": "Wasiliana kupitia WhatsApp",
+    "sendMessage": "Tutumie ujumbe",
+    "form": {
+      "name": "Jina",
+      "email": "Barua pepe",
+      "message": "Ujumbe",
+      "namePlaceholder": "Jina lako",
+      "emailPlaceholder": "barua@pepe.com",
+      "messagePlaceholder": "Ujumbe wako...",
+      "send": "Tuma ujumbe",
+      "sending": "Inatuma...",
+      "success": "Ujumbe umetumwa! Tutajibu haraka."
+    }
+  },
+  "partners": {
+    "title": "Ushirikiano wa Safari",
+    "subtitle": "Unataka zaidi? Gundua shughuli zetu za ushirikiano kwa uzoefu kamili wa Zanzibar",
+    "activities": {
+      "snorkeling": "Snorkeling na kobe",
+      "snorkelingDesc": "Ogelea pamoja na kobe za baharini katika miamba ya matumbawe",
+      "dolphins": "Kuogelea na pomboo",
+      "dolphinsDesc": "Mkutano wa uchawi na pomboo wa mwituni",
+      "cruise": "Safari ya machweo",
+      "cruiseDesc": "Safari ya kimapenzi wakati wa machweo",
+      "jetski": "Jet ski na uvuvi wa jadi",
+      "jetskiDesc": "Msisimko na ugunduzi wa mbinu za mitaa"
+    },
+    "combine": "Unganisha adventures zako!",
+    "combineDesc": "Unda kifurushi chako cha kibinafsi kwa kuunganisha shughuli kadhaa kwa uzoefu usiosahaulika",
+    "requestForm": "Ombi katika fomu",
+    "viaWhatsApp": "Kupitia WhatsApp"
+  },
+   "footer": {
+    "title": "Karibu Quad Adventure",
+    "subtitle": "Gundua Zanzibar tofauti",
+    "description": "Gundua hazina zilizofichwa za Zanzibar wakati wa safari isiyosahaulika ya quad. Waongozaji wa ndani, ziara halisi, na heshima kwa mazingira ndio kiini cha dhamira yetu.",
+    "whatsappDefaultMessage": "Habari Karibu Quad Adventure, ningependa maelezo zaidi!",
+    "exploreTitle": "Gundua",
+    "legalTitle": "Kisheria",
+    "privacy": "Sera ya Faragha",
+    "terms": "Sheria na Masharti",
+    "contactTitle": "Wasiliana Nasi",
+    "address": "Mahali pa kuanzia: Hoteli ya Riu Jambo Zanzibar",
+    "phone": "+255 719 924 652",
+    "email": "contact@karibuquadadventure.com",
+    "copyright": "© {{year}} Karibu Quad Adventure. Haki zote zimehifadhiwa.",
+    "madeWith": "Imetengenezwa kwa",
+    "inZanzibar": "Zanzibar"
+  },
+  "common": {
+    "loading": "Inapakia...",
+    "error": "Hitilafu imetokea",
+    "success": "Mafanikio!",
+    "close": "Funga",
+    "open": "Fungua",
+    "save": "Hifadhi",
+    "cancel": "Ghairi",
+    "confirm": "Thibitisha"
+  }
+}

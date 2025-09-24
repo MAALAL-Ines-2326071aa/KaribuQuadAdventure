@@ -1,0 +1,210 @@
+{
+  "nav": {
+    "home": "Home",
+    "circuit": "Circuito",
+    "pricing": "Prezzi",
+    "reservation": "Prenotazione",
+    "contact": "Contatto",
+    "reserve": "Prenota"
+  },
+   "hero": {
+    "title": "Parti per un'avventura in Quad a Zanzibar!",
+    "subtitle": "Esplora spiagge, foreste e villaggi al ritmo dell'isola.",
+    "startingPoint": "Punto di partenza: Hotel Riu Jambo",
+    "open247": "Aperto 24/7",
+    "multilingualGuides": "Guide multilingue",
+    "reserveNow": "Prenota il tuo tour ora"
+  },
+  "circuit": {
+    "title": "Circuito Quad Avventura",
+    "subtitle": "Scopri i momenti salienti della tua avventura attraverso i paesaggi mozzafiato di Zanzibar",
+    "highlights": {
+      "beach": "Partenza: Jomba Beach e il suo banco di sabbia",
+      "beachDesc": "Bagno tranquillo in acque cristalline",
+      "forest": "Foresta tropicale",
+      "forestDesc": "Immersione nella natura nel cuore della vegetazione lussureggiante",
+      "village": "Visita al villaggio di Kilimani",
+      "villageDesc": "Incontro con gli abitanti, cucina locale, danza tradizionale",
+      "kendwa": "Sosta a Kendwa Beach",
+      "kendwaDesc": "Classificata come la 4ª spiaggia più bella del mondo",
+      "private": "Spiaggia privata di Kaskazini",
+      "privateDesc": "Relax, bagno, foto con drone"
+    },
+    "included": "Incluso nella tua avventura",
+    "includedDesc": "Tutto è pensato perché tu possa goderti appieno la tua esperienza",
+    "items": {
+      "guide": "Guida locale esperta",
+      "insurance": "Assicurazione completa",
+      "equipment": "Casco, guanti e occhiali",
+      "media": "Foto e video HD offerti",
+      "refreshments": "Rinfreschi e frutta",
+      "drone": "Video con drone (opzione)"
+    }
+  },
+  "pricing": {
+    "title": "Prezzi e Orari",
+    "paymentOnSite": "Pagamento sul posto",
+    "transferIncluded": "Trasferimento dall'hotel Nungwi/Kendwa incluso",
+    "options": {
+      "single": "1 Quad (1 o 2 persone)",
+      "double": "2 Quad (max 4 persone)",
+      "group": "Gruppo (+ di 2 quad)"
+    },
+    "prices": {
+  "single": "60 $",
+  "double": "115 $",
+  "group": "Su preventivo"
+},
+    "duration": "4h",
+    "features": {
+      "transfer": "Trasferimento dall'hotel Nungwi/Kendwa",
+      "guide": "Guida locale esperta",
+      "refreshments": "Frutta fresca e bevande",
+      "media": "Foto e video HD",
+      "insurance": "Assicurazione completa",
+      "discount": "Sconto di gruppo"
+    },
+    "schedules": "Orari dei tour",
+    "schedulesDesc": "Scegli l'orario che ti conviene di più",
+    "morning": "Tour mattutino",
+    "afternoon": "Tour pomeridiano",
+    "pickup": "Ritiro 08:50",
+    "departure": "Partenza 09:00",
+    "return": "Ritorno 13:00",
+    "pickupAfternoon": "Ritiro 13:50",
+    "departureAfternoon": "Partenza 14:00",
+    "returnAfternoon": "Ritorno 18:00",
+    "reserveNow": "Prenota ora",
+    "requestQuote": "Richiedi preventivo"
+  },
+  "reservation": {
+    "title": "Prenota la tua Avventura",
+    "subtitle": "Seleziona le tue preferenze e prenota con pochi clic",
+    "morningTour": "Tour Mattutino",
+    "afternoonTour": "Tour Pomeridiano",
+    "quadsAvailable": "quad disponibili",
+    "form": {
+      "date": "Data di prenotazione",
+      "quads": "Numero di quad",
+      "schedule": "Orario",
+      "name": "Nome completo",
+      "email": "Email",
+      "phone": "Telefono (WhatsApp)",
+      "language": "Lingua della guida",
+      "customRequest": "Richiesta personalizzata",
+      "morning": "Mattina (09:00-13:00)",
+      "afternoon": "Pomeriggio (14:00-18:00)",
+      "available": "disponibili",
+      "namePlaceholder": "Il tuo nome completo",
+      "emailPlaceholder": "tua@email.com",
+      "phonePlaceholder": "+255 719 924 652",
+      "submit": "Invia e apri WhatsApp",
+      "submitting": "Invio in corso..."
+    },
+    "languages": {
+      "french": "Francese",
+      "english": "Inglese",
+      "italian": "Italiano",
+      "russian": "Russo"
+    }
+  },
+  "ethics": {
+    "title": "Impegno Etico",
+    "subtitle": "In Karibu Quad Adventure, ogni tour contribuisce allo sviluppo locale e alla preservazione dell'ambiente",
+    "school": "1$ per tour = 1 scuola supportata",
+    "schoolDesc": "Ogni prenotazione contribuisce direttamente al finanziamento di una scuola locale, offrendo migliori opportunità educative ai bambini della regione.",
+    "employment": "Occupazione locale",
+    "employmentDesc": "Impieghiamo esclusivamente giovani guide del villaggio di Nungwi, creando opportunità di lavoro sostenibili nella comunità locale.",
+    "responsible": "Turismo Responsabile",
+    "responsibleDesc": "Sensibile alla cultura e all'ambiente locale? Unisciti a noi per un'esperienza autentica e rispettosa.",
+    "ethical": "Vieni a guidare eticamente!",
+    "impact": "Insieme, creiamo un impatto positivo a Zanzibar"
+  },
+  "services": {
+    "title": "Lingue e Servizi",
+    "subtitle": "Un'esperienza personalizzata con guide esperte e servizi di qualità premium",
+    "guidesSpeak": "Le nostre guide parlano fluentemente",
+    "includedTitle": "Incluso in ogni tour",
+    "includedDesc": "Guida locale esperta • Assicurazione completa • Equipaggiamento completo • Foto e video HD • Possibilità di video con drone • Frutta fresca e bevande locali",
+    "items": {
+      "guides": "Guide multilingue",
+      "guidesDesc": "Comunicazione perfetta nella tua lingua",
+      "insurance": "Assicurazione e Equipaggiamento",
+      "insuranceDesc": "Sicurezza massima garantita",
+      "media": "Foto e Video HD",
+      "mediaDesc": "Ricordi immortalati e inviati via WhatsApp",
+      "drone": "Video con drone",
+      "droneDesc": "Riprese aeree spettacolari (opzione)",
+      "refreshments": "Frutta e Bevande",
+      "refreshmentsDesc": "Rinfreschi locali inclusi",
+      "authentic": "Esperienza autentica",
+      "authenticDesc": "Immersione culturale con i locali"
+    }
+  },
+  "contact": {
+    "title": "Contattaci",
+    "subtitle": "Una domanda? Hai bisogno di informazioni? Siamo qui per te!",
+    "info": "Informazioni di contatto",
+    "location": "Posizione GPS",
+    "whatsapp": "WhatsApp",
+    "email": "Email",
+    "contactViaWhatsApp": "Contatta via WhatsApp",
+    "sendMessage": "Inviaci un messaggio",
+    "form": {
+      "name": "Nome",
+      "email": "Email",
+      "message": "Messaggio",
+      "namePlaceholder": "Il tuo nome",
+      "emailPlaceholder": "tua@email.com",
+      "messagePlaceholder": "Il tuo messaggio...",
+      "send": "Invia messaggio",
+      "sending": "Invio in corso...",
+      "success": "Messaggio inviato! Risponderemo rapidamente."
+    }
+  },
+  "partners": {
+    "title": "Escursioni Partner",
+    "subtitle": "Vuoi di più? Scopri le nostre attività in partnership per un'esperienza completa a Zanzibar",
+    "activities": {
+      "snorkeling": "Snorkeling con le tartarughe",
+      "snorkelingDesc": "Nuota accanto alle tartarughe marine nelle barriere coralline",
+      "dolphins": "Nuotare con i delfini",
+      "dolphinsDesc": "Incontro magico con i delfini selvatici",
+      "cruise": "Crociera al tramonto",
+      "cruiseDesc": "Crociera romantica al tramonto",
+      "jetski": "Jet ski e pesca tradizionale",
+      "jetskiDesc": "Emozioni forti e scoperta delle tecniche locali"
+    },
+    "combine": "Combina le tue avventure!",
+    "combineDesc": "Crea il tuo pacchetto personalizzato combinando diverse attività per un'esperienza indimenticabile",
+    "requestForm": "Richiesta nel modulo",
+    "viaWhatsApp": "Via WhatsApp"
+  },
+ "footer": {
+    "title": "Karibu Quad Adventure",
+    "subtitle": "Esplora Zanzibar in modo diverso",
+    "description": "Scopri i tesori nascosti di Zanzibar durante un'indimenticabile avventura in quad. Guide locali, tour autentici e rispetto per l'ambiente sono il cuore della nostra missione.",
+    "whatsappDefaultMessage": "Ciao Karibu Quad Adventure, vorrei maggiori informazioni!",
+    "exploreTitle": "Esplora",
+    "legalTitle": "Legale",
+    "privacy": "Informativa sulla Privacy",
+    "terms": "Termini di Servizio",
+    "contactTitle": "Contattaci",
+    "address": "Punto di partenza: Hotel Riu Jambo Zanzibar",
+    "phone": "+255 719 924 652",
+    "email": "contact@karibuquadadventure.com",
+    "copyright": "© {{year}} Karibu Quad Adventure. Tutti i diritti riservati.",
+    "madeWith": "Fatto con",
+    "inZanzibar": "a Zanzibar"
+  },
+  "common": {
+    "loading": "Caricamento...",
+    "error": "Si è verificato un errore",
+    "success": "Successo!",
+    "close": "Chiudi",
+    "open": "Apri",
+    "save": "Salva",
+    "cancel": "Annulla",
+    "confirm": "Conferma"
+  }
+}

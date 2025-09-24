@@ -1,0 +1,19 @@
+/* On importe les deux polices depuis Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&family=Playfair+Display:wght@700;800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    @apply bg-[#F8F7F4] text-[#1E1E1E] font-sans antialiased;
+    /* Alabaster background, Anthracite text, Police Inter par défaut */
+  }
+  h1, h2, h3 {
+    @apply font-serif; /* Police Playfair Display pour les titres */
+  }
+}

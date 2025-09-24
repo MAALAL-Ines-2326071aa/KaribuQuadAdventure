@@ -1,0 +1,227 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "circuit": "Circuito",
+    "pricing": "Precios",
+    "reservation": "Reserva",
+    "contact": "Contacto",
+    "reserve": "Reservar"
+  },
+   "hero": {
+    "title": "¡Embárcate en una aventura en Quad en Zanzíbar!",
+    "subtitle": "Explora playas, selvas y pueblos al ritmo de la isla.",
+    "startingPoint": "Punto de partida: Hotel Riu Jambo",
+    "open247": "Abierto 24/7",
+    "multilingualGuides": "Guías multilingües",
+    "reserveNow": "Reserva tu excursión ahora"
+  },
+  "circuit": {
+    "title": "Circuito Quad Aventura",
+    "subtitle": "Descubre los momentos destacados de tu aventura a través de los paisajes impresionantes de Zanzíbar",
+    "highlights": {
+      "beach": "Salida: Jomba Beach y su banco de arena",
+      "beachDesc": "Baño tranquilo en aguas cristalinas",
+      "forest": "Bosque tropical",
+      "forestDesc": "Inmersión en la naturaleza en el corazón de la vegetación exuberante",
+      "village": "Visita al pueblo de Kilimani",
+      "villageDesc": "Encuentro con los habitantes, cocina local, danza tradicional",
+      "kendwa": "Parada en Kendwa Beach",
+      "kendwaDesc": "Clasificada como la 4ª playa más hermosa del mundo",
+      "private": "Playa privada de Kaskazini",
+      "privateDesc": "Relajación, baño, fotos con drone"
+    },
+    "included": "Incluido en tu aventura",
+    "includedDesc": "Todo está pensado para que disfrutes plenamente de tu experiencia",
+    "items": {
+      "guide": "Guía local experimentado",
+      "insurance": "Seguro completo",
+      "equipment": "Casco, guantes y gafas",
+      "media": "Fotos y videos HD ofrecidos",
+      "refreshments": "Refrescos y frutas",
+      "drone": "Videos con drone (opción)"
+    }
+  },
+  "pricing": {
+    "title": "Precios y Horarios",
+    "paymentOnSite": "Pago en el lugar",
+    "transferIncluded": "Traslado desde hotel Nungwi/Kendwa incluido",
+    "options": {
+      "single": "1 Quad (1 o 2 personas)",
+      "double": "2 Quads (máx 4 personas)",
+      "group": "Grupo (+ de 2 quads)"
+    },
+    "prices": {
+  "single": "60 $",
+  "double": "115 $",
+  "group": "A consultar"
+},
+    "duration": "4h",
+    "features": {
+      "transfer": "Traslado desde hotel Nungwi/Kendwa",
+      "guide": "Guía local experimentado",
+      "refreshments": "Frutas frescas y bebidas",
+      "media": "Fotos y videos HD",
+      "insurance": "Seguro completo",
+      "discount": "Descuento de grupo"
+    },
+    "schedules": "Horarios de tours",
+    "schedulesDesc": "Elige el horario que mejor te convenga",
+    "morning": "Tour matutino",
+    "afternoon": "Tour vespertino",
+    "pickup": "Recogida 08:50",
+    "departure": "Salida 09:00",
+    "return": "Regreso 13:00",
+    "pickupAfternoon": "Recogida 13:50",
+    "departureAfternoon": "Salida 14:00",
+    "returnAfternoon": "Regreso 18:00",
+    "reserveNow": "Reservar ahora",
+    "requestQuote": "Solicitar presupuesto"
+  },
+  "reservation": {
+    "title": "Reserva tu Aventura",
+    "subtitle": "Selecciona tus preferencias y reserva en pocos clics",
+    "morningTour": "Tour Matutino",
+    "afternoonTour": "Tour Vespertino",
+    "quadsAvailable": "quads disponibles",
+    "form": {
+      "date": "Fecha de reserva",
+      "quads": "Número de quads",
+      "schedule": "Horario",
+      "name": "Nombre completo",
+      "email": "Email",
+      "phone": "Teléfono (WhatsApp)",
+      "language": "Idioma del guía",
+      "customRequest": "Solicitud personalizada",
+      "morning": "Mañana (09:00-13:00)",
+      "afternoon": "Tarde (14:00-18:00)",
+      "available": "disponibles",
+      "namePlaceholder": "Tu nombre completo",
+      "emailPlaceholder": "tu@email.com",
+      "phonePlaceholder": "+255 719 924 652",
+      "submit": "Enviar y abrir WhatsApp",
+      "submitting": "Enviando..."
+    },
+    "languages": {
+      "french": "Francés",
+      "english": "Inglés",
+      "italian": "Italiano",
+      "russian": "Ruso"
+    }
+  },
+  "ethics": {
+    "title": "Compromiso Ético",
+    "subtitle": "En Karibu Quad Adventure, cada tour contribuye al desarrollo local y la preservación del medio ambiente",
+    "school": "1$ por tour = 1 escuela apoyada",
+    "schoolDesc": "Cada reserva contribuye directamente al financiamiento de una escuela local, ofreciendo mejores oportunidades educativas a los niños de la región.",
+    "employment": "Empleo local",
+    "employmentDesc": "Empleamos exclusivamente a jóvenes guías del pueblo de Nungwi, creando oportunidades de empleo sostenibles en la comunidad local.",
+    "responsible": "Turismo Responsable",
+    "responsibleDesc": "¿Sensible a la cultura y el medio ambiente local? Únete a nosotros para una experiencia auténtica y respetuosa.",
+    "ethical": "¡Ven a rodar éticamente!",
+    "impact": "Juntos, creemos un impacto positivo en Zanzíbar"
+  },
+  "services": {
+    "title": "Idiomas y Servicios",
+    "subtitle": "Una experiencia personalizada con guías expertos y servicios de calidad premium",
+    "guidesSpeak": "Nuestros guías hablan con fluidez",
+    "includedTitle": "Incluido en cada tour",
+    "includedDesc": "Guía local experimentado • Seguro completo • Equipo completo • Fotos y videos HD • Posibilidad de videos con drone • Frutas frescas y bebidas locales",
+    "items": {
+      "guides": "Guías multilingües",
+      "guidesDesc": "Comunicación perfecta en tu idioma",
+      "insurance": "Seguro y Equipo",
+      "insuranceDesc": "Seguridad máxima garantizada",
+      "media": "Fotos y Videos HD",
+      "mediaDesc": "Recuerdos inmortalizados y enviados vía WhatsApp",
+      "drone": "Videos con drone",
+      "droneDesc": "Tomas aéreas espectaculares (opción)",
+      "refreshments": "Frutas y Bebidas",
+      "refreshmentsDesc": "Refrescos locales incluidos",
+      "authentic": "Experiencia auténtica",
+      "authenticDesc": "Inmersión cultural con los locales"
+    }
+  },
+  "contact": {
+    "title": "Contáctanos",
+    "subtitle": "¿Una pregunta? ¿Necesitas información? ¡Estamos aquí para ti!",
+    "info": "Información de contacto",
+    "location": "Ubicación GPS",
+    "whatsapp": "WhatsApp",
+    "email": "Email",
+    "contactViaWhatsApp": "Contactar vía WhatsApp",
+    "sendMessage": "Envíanos un mensaje",
+    "form": {
+      "name": "Nombre",
+      "email": "Email",
+      "message": "Mensaje",
+      "namePlaceholder": "Tu nombre",
+      "emailPlaceholder": "tu@email.com",
+      "messagePlaceholder": "Tu mensaje...",
+      "send": "Enviar mensaje",
+      "sending": "Enviando...",
+      "success": "¡Mensaje enviado! Responderemos rápidamente."
+    }
+  },
+  "partners": {
+    "title": "Excursiones Asociadas",
+    "subtitle": "¿Quieres más? Descubre nuestras actividades en asociación para una experiencia completa en Zanzíbar",
+    "activities": {
+      "snorkeling": "Snorkel con tortugas",
+      "snorkelingDesc": "Nada junto a tortugas marinas en arrecifes de coral",
+      "dolphins": "Nadar con delfines",
+      "dolphinsDesc": "Encuentro mágico con delfines salvajes",
+      "cruise": "Crucero al atardecer",
+      "cruiseDesc": "Crucero romántico al atardecer",
+      "jetski": "Jet ski y pesca tradicional",
+      "jetskiDesc": "Emociones fuertes y descubrimiento de técnicas locales"
+    },
+    "combine": "¡Combina tus aventuras!",
+    "combineDesc": "Crea tu paquete personalizado combinando varias actividades para una experiencia inolvidable",
+    "requestForm": "Solicitud en el formulario",
+    "viaWhatsApp": "Vía WhatsApp"
+  },
+   "footer": {
+    "title": "Karibu Quad Adventure",
+    "subtitle": "Explora Zanzíbar de otra manera",
+    "description": "Descubre los tesoros ocultos de Zanzíbar durante una inolvidable aventura en quad. Guías locales, recorridos auténticos y respeto por el medio ambiente son el corazón de nuestra misión.",
+    "whatsappDefaultMessage": "¡Hola Karibu Quad Adventure, me gustaría más información!",
+    "exploreTitle": "Explorar",
+    "legalTitle": "Legal",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio",
+    "contactTitle": "Contáctanos",
+    "address": "Punto de partida: Hotel Riu Jambo Zanzibar",
+    "phone": "+255 719 924 652",
+    "email": "contact@karibuquadadventure.com",
+    "copyright": "© {{year}} Karibu Quad Adventure. Todos los derechos reservados.",
+    "madeWith": "Hecho con",
+    "inZanzibar": "en Zanzíbar"
+  },
+ "footer": {
+    "title": "Karibu Quad Adventure",
+    "subtitle": "Explora Zanzíbar de otra manera",
+    "description": "Descubre los tesoros ocultos de Zanzíbar durante una inolvidable aventura en quad. Guías locales, recorridos auténticos y respeto por el medio ambiente son el corazón de nuestra misión.",
+    "whatsappDefaultMessage": "¡Hola Karibu Quad Adventure, me gustaría más información!",
+    "exploreTitle": "Explorar",
+    "legalTitle": "Legal",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio",
+    "contactTitle": "Contáctanos",
+    "address": "Punto de partida: Hotel Riu Palace Zanzibar",
+    "phone": "+33 6 61 02 18 26",
+    "email": "contact@karibuquadadventure.com",
+    "copyright": "© {{year}} Karibu Quad Adventure. Todos los derechos reservados.",
+    "madeWith": "Hecho con",
+    "inZanzibar": "en Zanzíbar"
+  },
+  "common": {
+    "loading": "Cargando...",
+    "error": "Ocurrió un error",
+    "success": "¡Éxito!",
+    "close": "Cerrar",
+    "open": "Abrir",
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "confirm": "Confirmar"
+  }
+}
