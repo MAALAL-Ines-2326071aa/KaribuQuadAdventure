@@ -1,7 +1,8 @@
 import React from 'react';
 import { useTranslation } from 'react-i18next';
-import { Check, Clock, MapPin, DollarSign } from 'lucide-react';
-import AnimatedSection from './AnimatedSection'; // 1. On importe le composant
+// ** MODIFICATION : Ajout des nouvelles icônes **
+import { Check, Clock, MapPin, DollarSign, CalendarDays, Sunrise, Sunset } from 'lucide-react';
+import AnimatedSection from './AnimatedSection';
 
 const PricingSection: React.FC = () => {
   const { t } = useTranslation();
@@ -12,9 +13,10 @@ const PricingSection: React.FC = () => {
     { title: t('pricing.options.group'), price: t('pricing.prices.group'), duration: t('pricing.duration'), features: [ t('pricing.features.transfer'), t('pricing.features.guide'), t('pricing.features.refreshments'), t('pricing.features.media'), t('pricing.features.insurance'), t('pricing.features.discount') ], popular: false }
   ];
 
+  // ** MODIFICATION : Remplacement des emojis par des icônes Lucide **
   const schedules = [
-    { time: t('pricing.morning'), pickup: t('pricing.pickup'), departure: t('pricing.departure'), return: t('pricing.return'), icon: "🌅" },
-    { time: t('pricing.afternoon'), pickup: t('pricing.pickupAfternoon'), departure: t('pricing.departureAfternoon'), return: t('pricing.returnAfternoon'), icon: "🌅" }
+    { time: t('pricing.morning'), pickup: t('pricing.pickup'), departure: t('pricing.departure'), return: t('pricing.return'), icon: <Sunrise size={32} className="text-brand-gold" /> },
+    { time: t('pricing.afternoon'), pickup: t('pricing.pickupAfternoon'), departure: t('pricing.departureAfternoon'), return: t('pricing.returnAfternoon'), icon: <Sunset size={32} className="text-brand-gold" /> }
   ];
 
   const scrollToReservation = () => {
@@ -48,7 +50,6 @@ const PricingSection: React.FC = () => {
                     </span>
                   </div>
                 )}
-                
                 <div className="flex-grow">
                   <div className="text-center mb-8">
                     <h3 className="text-2xl font-bold text-brand-anthracite mb-2">{option.title}</h3>
@@ -57,7 +58,6 @@ const PricingSection: React.FC = () => {
                       <span className="text-gray-500">/ {option.duration}</span>
                     </div>
                   </div>
-
                   <ul className="space-y-4 mb-10">
                     {option.features.map((feature, idx) => (
                       <li key={idx} className="flex items-start space-x-3 min-h-[2.5rem]">
@@ -67,7 +67,6 @@ const PricingSection: React.FC = () => {
                     ))}
                   </ul>
                 </div>
-
                 <div>
                   <button onClick={scrollToReservation} className={`w-full py-3 rounded-md font-bold text-lg transition-all duration-300 transform hover:scale-105 shadow-lg ${ 
                     option.popular 
@@ -85,14 +84,21 @@ const PricingSection: React.FC = () => {
         <AnimatedSection variant="fadeInUp">
           <div className="bg-white rounded-lg shadow-md p-8 border border-gray-200">
             <div className="text-center mb-8">
-              <h3 className="text-3xl font-bold text-brand-anthracite mb-4">📅 {t('pricing.schedules')}</h3>
+              {/* ** MODIFICATION : Remplacement de l'emoji par une icône ** */}
+              <h3 className="text-3xl font-bold text-brand-anthracite mb-4 flex items-center justify-center gap-x-3">
+                <CalendarDays size={28} /> 
+                {t('pricing.schedules')}
+              </h3>
               <p className="text-gray-600">{t('pricing.schedulesDesc')}</p>
             </div>
             <div className="grid md:grid-cols-2 gap-6">
               {schedules.map((schedule, index) => (
                 <div key={index} className="bg-gray-50 rounded-lg p-6 border border-gray-200">
                   <div className="text-center">
-                    <div className="text-4xl mb-4">{schedule.icon}</div>
+                    {/* ** MODIFICATION : Remplacement de l'emoji par une icône ** */}
+                    <div className="inline-block p-3 bg-white rounded-md mb-4 shadow-inner">
+                      {schedule.icon}
+                    </div>
                     <h4 className="text-2xl font-bold text-brand-anthracite mb-4">{schedule.time}</h4>
                     <div className="space-y-2 text-gray-700">
                       <div className="flex items-center justify-center space-x-2"> <Clock size={16} /> <span>{schedule.pickup}</span> </div>
